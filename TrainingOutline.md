@@ -1,0 +1,77 @@
+# Vehicle Architecture
+- Vehicle sketch - label generic parts
+- Basic vehicle components - engine, ignition, spark plugs, distributor, battery, alternator, radiator, starter, breaks, shocks, etc
+- You can't update the car while you're driving it.
+- Introduce Autosar and ADAS for self study
+- history of cars
+- mechanical vs. electronic - Carb vs Feul Injection
+- basic engine function - 4-stroke vs 2-stroke functionality
+- basic powertrain functionality
+- manual vs automatic transmission
+- battery - provide subsystem power/constant power supply
+- Alternator - takes rotational energy from the running engine, and generates electrical enegry to supply the battery
+- Radiator - circulate coolant through a set of fins to cool the engine
+- Suspension
+- Axels
+- Brakes - disc and drum vs regenerative
+- Catalytic Converter
+- Muffler
+- Tailpipe
+- Fuel Tank - what ways can you think of to read the fuel level?
+- AC Compressor
+
+- Car anatormy: the basics - https://www.youtube.com/watch?v=fPjOWekzeGI
+- Vehicle sketch - detailed component labels
+
+- Shocks
+- Steering System
+
+- Driver Alertness Monitor discussion
+- Tire Pressure Monitor discussion
+- Remote Keyless Entry discussion
+
+- sensor lookup
+    - Crankshaft position sensor - p0335
+    - Camshaft position sensor - p0340
+    - Throttle position sensor TPS - p0120-4, 2138, 2135
+
+
+
+
+# Power / Ground
+- sketch a home circuit
+- discuss/define power and ground
+- list continuous power acessories(kl-30)
+- list ignition power accessories (kl-15)
+- list accessory power accessories (KLR)
+- define/discuss kl-15
+- define/discuss kl-30
+- individually list 20 kl-15 and 5 kl-30 systems
+- Simple battery circuit (ohms law, 12v one lightbulb, add a lightbulb and make both 6v)
+- Simple chassis ground circuit
+- battery negative terminal (chassis ground) - kl-31
+- battery positive terminal - kl-30
+- delay relay - on until x time after ignition turn off - kl-30g
+- constant power fault - on until fault is detected - kl-30g_f
+- ignition switch - kl-15 (push button ignition, or key to "ON")
+- sketch circuit with kl-15, kl-30, kl-31, kl-30g, kl-30g_f
+- introduce common circuit diagram component symbols
+- review horn circuit (blocks)
+- sketch horn circuit (diagram)
+- sketch camera circuit (diagram)
+- review relay contacts
+- sketch relay with sensor circuit
+- lm35 temperature sensor (signal value conversion)
+- sketch fan relay circuit with lm35 sensor
+- sketch fan relay wircuit with kl-15/kl-30
+
+- https://vladgur.com/workshop-manual/bmw-x7-50i-g07_2019_edition-12.2019_ewd_ag/?page=97
+- examine and describe a wiring diagram
+
+- Wiring/circuit wrapup discussion
+
+# Electronic Contol Unit
+- mini-project - develop a custom ECU - components, signals, kl-15/kl-30
+
+- ecu discussion
+- sketch ecu circuit diagram (block diagramming)
