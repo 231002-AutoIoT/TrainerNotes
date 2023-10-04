@@ -75,3 +75,53 @@
 
 - ecu discussion
 - sketch ecu circuit diagram (block diagramming)
+
+
+# Diagnostics and troubleshooting
+- find and sketch MIL
+
+## ECU design example
+- introduce Wokwi and arduino
+- signal I/O, 1/0 (5v/0v)
+- digital v analog signals
+- virtual breadboarding with temperature sensor
+- arduino uno, ds-18b20 tmp sensor, led (w resistor)
+- PIR - passive infrared sensor
+
+- https://arduinogetstarted.com/tutorials/arduino-button-led
+
+## Autosar
+- https://github.com/openAUTOSAR/classic-platform/tree/master
+
+- Automotive Open System Architecture
+- Common "Library"/standard libraries
+- Standardized interfaces
+- hardware to application integration (puzzle peices analogy)
+
+- v-Model
+    - Refinement
+        - Requirements
+        - System spec
+        - Functional spec (MIL)
+        - Architecture design
+        - Module design
+        - Implementation
+
+    - Validation and Verification
+        - Implementation
+        - Module test (SIL)
+        - Integration test (HIL)
+        - Functional Test (HIL)
+        - System Test
+        - Maintenance
+
+- interface diagramming
+    - IO count, interface blocks
+- DIO digital input output interface
+- https://www.autosar.org/fileadmin/standards/R19-11/CP/AUTOSAR_SWS_DIODriver.pdf
+
+- AUTOSAR components - https://www.autosartoday.com/article/what_are_dem_dlt_dcm_and_det/
+    - DEM - processes the diagnotic codes - diagnostic event manager
+    - DET - Development Error Tracer
+    - DCM - Diagnostic Communication Manager
+    - OBD - On Board Diagnostic

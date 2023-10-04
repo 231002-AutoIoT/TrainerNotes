@@ -1,7 +1,9 @@
 Abhishek (AJ) - ultrasonic parking aid
+Anabel -
 Anthony - AC Temperature control
 Austin - collision detection
 Brett - body control
+Bryan -
 Dan - Dual AC Temperature control
 Daniel - ABS
 Jacob - lane hold asssist
