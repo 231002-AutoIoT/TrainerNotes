@@ -90,6 +90,10 @@
 
 - https://arduinogetstarted.com/tutorials/arduino-button-led
 
+- H-bridge motor controller
+- PWM - pulse width modulation - simulate an analogue voltage signal by controlling the average of a series of digital pulses.
+
+
 ## Autosar
 - https://github.com/openAUTOSAR/classic-platform/tree/master
 
@@ -125,3 +129,10 @@
     - DET - Development Error Tracer
     - DCM - Diagnostic Communication Manager
     - OBD - On Board Diagnostic
+
+
+# ECU Wokwi practice
+- UseCase:
+If Temperature >= 50C -> Fan ON
+Else -> Fan OFF
+
