@@ -1,5 +1,5 @@
 Abhishek (AJ) - ultrasonic parking aid
-Anabel -
+Anabel - Lane departure warning
 Anthony - AC Temperature control
 Austin - collision detection
 Brett - body control
@@ -7,9 +7,9 @@ Bryan -
 Dan - Dual AC Temperature control
 Daniel - ABS
 Jacob - lane hold asssist
-Juan - vehicle speed
-Kyle - adaptive highbeams
-Lawrence (Larry) - adaptive volume
+Juan - Adaptive Cruise Control
+Kyle - Adaptive Mirrors highbeams
+Lawrence (Larry) - adaptive volume -> Bike-Lane Door Lock
 Meghnath (Meg) - terrain resistance/tcs
 Michael - camshaft
 Rodolfo (Ruddy) - fuel tank level

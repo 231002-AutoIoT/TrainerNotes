@@ -129,6 +129,8 @@
     - DET - Development Error Tracer
     - DCM - Diagnostic Communication Manager
     - OBD - On Board Diagnostic
+    - DLC - Diagnostic Link Connector
+    - DTC - Diagnostic Trouble Code
 
 
 # ECU Wokwi practice
@@ -136,3 +138,28 @@
 If Temperature >= 50C -> Fan ON
 Else -> Fan OFF
 
+
+# Crankshaft Sensor Writeup
+- research crankshaft, position sensor, and signals/failures
+- throttle position sensor, signals/failures
+- TPMS research, ECU circuit block diagram, pseudocode logic, error codes
+- OBD
+
+- https://www.youtube.com/watch?v=U2fygPCavq0
+
+- sensor -> ECU -> ERROR CODE -> DEM
+- OBD service and PID
+
+- https://en.wikipedia.org/wiki/OBD-II_PIDs
+
+- DTCs
+
+- https://www.dmv.de.gov/VehicleServices/inspections/pdfs/dtc_list.pdf
+
+- UDS - Unified Diagnostic Services - ECU communication protocol (specified by ISO 14229-1). Diagnostic tools are able to contact all ECUs installed in a vehicle that have UDS enabled.
+
+- https://www.youtube.com/shorts/JcMHMeYCGKc
+
+- https://www.csselectronics.com/pages/uds-protocol-tutorial-unified-diagnostic-services
+
+-
