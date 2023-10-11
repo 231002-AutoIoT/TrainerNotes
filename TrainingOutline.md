@@ -162,4 +162,39 @@ Else -> Fan OFF
 
 - https://www.csselectronics.com/pages/uds-protocol-tutorial-unified-diagnostic-services
 
--
+
+
+# Python
+- data types
+- string manipulation
+- operators
+- control flow
+- .methods
+- collections
+- classes
+- magic/double-underscore/dunder methods
+- functions
+- file IO
+
+
+# CAN
+- sketch abs, Dash-board, and BCM ecus and sensors
+- two wires
+- easy to connect
+- broadcast protocol (all can see, only one needs to recieve and confirm)
+- fake messaging with chat (AJ, the tire pressure is 50 PSI. / recieved)
+- messaging priority (kyle, this is low priority, your door is closed. Larry, this is important, you just hit something!)
+- CANH and CANL wires (high and low state)
+    - EMF/fault voltage (signal interference)
+    - engine start, alternator, spark-plug wires
+    - differential voltage
+    - CANH runs 2.5-5, CANL runs 0-2.5
+    _|----|___|---|____ CANH
+    -|____|---|___|---- CANL
+- messaging styles
+    - main/nodes (master/slave)
+    - direct (phonecall/bluetooth)
+    - broadcast (megaphone on the street)
+- synchronous vs asynchronous
+    - can is asynchronous, but have a consistent baudrate (speed of transmission)
+- bus length inverse-relationship to baudrate (the longer the wire, the slower it goes)
