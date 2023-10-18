@@ -16,7 +16,7 @@ Lots of python questions?
 
 ## Anabel Hernandez
 
-SS: Y
+SS: L
 Modules in python? - Y
 Create your own module? - Y
 What are Sets? - Y
@@ -55,4 +55,4 @@ What is def doing here?
 
 Standard vs Extended? S: 11, Ext: 29, more data in extended CAN Frame - G (zia asked him to reexplain this several times over, he was very clear)
 CRC CRC Delimeter? - L 
-print sum & avg of a list in python - 
+print sum & avg of a list in python - missed returning values from his codes functions
