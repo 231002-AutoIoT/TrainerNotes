@@ -10,7 +10,7 @@ Two Teams of 4, One Team of 5
 
 The goal of this project, is to repeat the Capstone, with reduced requirements, practicing the same experience but working together as a team on the system. This will be to keep material fresh and work on collaboration. Interviews are happening this week, which take priority, but try to split time accordingly. Presentations will happen Friday November 3rd, after lunch. 
 
-***NOTE: Main objective is to show work completed throughout the week with these, it doesn't necessarily need to be 100% completed and polished***
+***NOTE: Main objective is to show work completed throughout the week with these, it doesn't necessarily need to be 100% completed and polished. PRIORITY must always be lowest priority to client requests and demands during the onboarding and relocation process***
 
 ### Requirements
 
@@ -48,6 +48,8 @@ Presentation to trainers & submit all material worked on to your cohort sharepoi
 For the training of new automotive engineers in CAN communication systems, tasks can be assigned using either CANoe or BusMaster. While CANoe provides a user-friendly environment with certain limitations in its demo version, BusMaster, being open-source, offers flexibility with a potentially different user interface. Work through as many of the following with your choice of CANoe and BusMaster:
 
 ***Note: Be mindful of limitations such as the number of nodes and messages in CANoe's demo version and potential differences in the user interface and available features in BusMaster.***
+
+***NOTE: Main objective is to show work completed throughout the week with these, it doesn't necessarily need to be 100% completed and polished. PRIORITY must always be lowest priority to client requests and demands during the onboarding and relocation process***
 
 ### Requirements  
 
@@ -98,6 +100,8 @@ Presentation to trainers & submit all material worked on to your cohort sharepoi
 ### Overview
 
 Preperatory exploration into the offerings of DSpace and the material they are about to embark on through DSpaces virtual training. Research and documentation to help further their understanding of the material as they begin to work on it and allows for a centralized location of information that's freely available on the Web.
+
+***NOTE: Main objective is to show work completed throughout the week with these, it doesn't necessarily need to be 100% completed and polished. PRIORITY must always be lowest priority to client requests and demands during the onboarding and relocation process***
 
 ### Requirements
 
