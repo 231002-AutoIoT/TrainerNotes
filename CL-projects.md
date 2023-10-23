@@ -37,7 +37,7 @@ All material must be submitted to SharePoint, see submission instructions below!
 
 ### Submission
 
-Presentation to trainers & submit all material worked on to your cohort sharepoint under the [`cl-mini-projects/mini-team`](https://revaturetech.sharepoint.com/:f:/s/231002-OnlineVA-AutomotiveiOTTesting/Em0xuyL4LIJPn_y9U7SkC_kBCNdPzkn_vsp3fyhAj2P9Hg?e=JTGnnL) folder. Please create your own folder with a team name, including a document outlining your team members and their respective ECUs. 
+Presentation to trainers & submit all material worked on to your cohort sharepoint under the [`cl-mini-projects/mini-team`](https://revaturetech.sharepoint.com/:f:/s/231002-OnlineVA-AutomotiveiOTTesting/Em0xuyL4LIJPn_y9U7SkC_kBCNdPzkn_vsp3fyhAj2P9Hg?e=JTGnnL) folder. Please generate a subfolder with a team name, including a document outlining your team members and their respective ECUs. 
 <hr/>
 
 ## Mini BusMaster & CANoe
@@ -88,7 +88,7 @@ For the training of new automotive engineers in CAN communication systems, tasks
     - Provide a brief report on the importance of network management in automotive systems.
 
 ### Submission
-Presentation to trainers & submit all material worked on to your cohort sharepoint under the [`cl-mini-projects/mini-busmaster-canoe`](https://revaturetech.sharepoint.com/:f:/s/231002-OnlineVA-AutomotiveiOTTesting/EgGvHCOfikFGocSF8w_q234BUkwh49jSQfK5XNAqi1Aq3A?e=Gs8wTZ) folder.  
+Presentation to trainers & submit all material worked on to your cohort sharepoint under the [`cl-mini-projects/mini-busmaster-canoe`](https://revaturetech.sharepoint.com/:f:/s/231002-OnlineVA-AutomotiveiOTTesting/EgGvHCOfikFGocSF8w_q234BUkwh49jSQfK5XNAqi1Aq3A?e=Gs8wTZ) folder. Please generate a sub-folder with `firstname-lastname` within to share all your resources.
 
 <hr/>
 
