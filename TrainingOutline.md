@@ -198,3 +198,64 @@ Else -> Fan OFF
 - synchronous vs asynchronous
     - can is asynchronous, but have a consistent baudrate (speed of transmission)
 - bus length inverse-relationship to baudrate (the longer the wire, the slower it goes)
+
+
+## CAN Bus
+- Busmaster - https://rbei-etas.github.io/busmaster/
+- MinGW - linked from busmaster
+- based on simple block diagram, build DB file
+    - ABS, Dash, BCM newtowk DB
+    - ABS - 4 wheel speed sensors
+    - BCM - 4 Door sensors, 1 Seatbelt sensor
+    - Dash - Buzzer output, lamp output
+- signal generator
+
+## CANoe
+- dbc file
+    - signals
+    - messages
+- nodes
+    - ECU
+    - Interactive Generators (IG)
+- demo file walk-through
+
+## Simulink
+- MATLAB online - https://www.mathworks.com/
+    - free acct = 20 hrs per week
+    - 30 day trial acct = unlimited
+
+- blocks
+    - constant
+    - display
+    - operations (add, subtract)
+    - logical gates (AND, OR)
+    - control flow (if/if action)
+
+- Magesh Jayakumar Simulink/Arduino video series - https://www.youtube.com/watch?v=bB5-mvA41cI&list=PLnFVwvy9GeM4Z994R8sbDLFE9yj8Ad9KN
+
+- Flow Control Exercise - FlowControl.md
+    - flow chart - paper and pencil
+- Chart blocking
+    - state, transition
+    -
+        ```
+        {NAME}
+        entry:
+        {in/out actions}
+        ```
+    -
+        ```
+        state1
+        entry:
+        out1 = in1;
+        ```
+
+    - transition = conditions
+        [condition1 == 1]
+    - transition = delay/actions
+        after(10, sec)
+
+
+
+- CAN Pack/UnPack blocks
+- CAN Transmit/Recieve blocks
