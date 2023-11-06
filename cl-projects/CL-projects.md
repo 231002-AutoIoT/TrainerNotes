@@ -50,7 +50,7 @@ For the training of new automotive engineers in CAN communication systems, tasks
 ### Requirements  
 
 1. Basic CAN Communication Setup:
-**Objective**: Simulate a simple CAN communication system between two nodes.
+- **Objective**: Simulate a simple CAN communication system between two nodes.
 - **Subtasks**:
     - Define two nodes in the car system.
     - Establish a basic CAN network between nodes.
@@ -59,7 +59,7 @@ For the training of new automotive engineers in CAN communication systems, tasks
     - Document the entire setup and provide a brief report on the implemented features.
 
 1. Diagnostic Trouble Code (DTC) Handling:
-**Objective**: Develop a system to handle Diagnostic Trouble Codes using CANoe and BusMaster.
+- **Objective**: Develop a system to handle Diagnostic Trouble Codes using CANoe and BusMaster.
 - **Subtasks**:
     - Simulate various fault scenarios within the car system.
     - Define DTCs associated with these faults.
@@ -68,7 +68,7 @@ For the training of new automotive engineers in CAN communication systems, tasks
     - Provide a report detailing the implemented DTC handling process.
 
 1. Data Logging and Analysis:
-**Objective**: Set up a data logging and analysis system using CANoe and BusMaster.
+- **Objective**: Set up a data logging and analysis system using CANoe and BusMaster.
 - **Subtasks**:
     - Identify critical parameters within the car system for logging.
     - Implement continuous data logging for these parameters.
